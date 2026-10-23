@@ -1,0 +1,27 @@
+=============================================
+8-QUEENS PROBLEM - SIMULATED ANNEALING
+=============================================
+Name: Ashish Kumar Gupta
+USN: 1WA24CS063
+=============================================
+
+Restart: 1
+Initial State: [4, 7, 7, 0, 1, 7, 5, 5]
+Initial Cost: 6
+
+Goal State Found!
+Steps: 73
+Final State: [4, 1, 3, 5, 7, 2, 0, 6]
+ .  .  .  .  .  .  Q  . 
+ .  Q  .  .  .  .  .  . 
+ .  .  .  .  .  Q  .  . 
+ .  .  Q  .  .  .  .  . 
+ Q  .  .  .  .  .  .  . 
+ .  .  .  Q  .  .  .  . 
+ .  .  .  .  .  .  .  Q 
+ .  .  .  .  Q  .  .  . 
+Cost: 0
+
+Final Solution: [4, 1, 3, 5, 7, 2, 0, 6]
+Final Cost: 0
+All queens are safe!
